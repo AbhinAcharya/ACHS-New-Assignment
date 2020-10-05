@@ -1,0 +1,23 @@
+package com.achs.util;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+/**
+ * Created by IntelliJ IDEA.
+ * User: abhinacharya
+ * Date: 10/3/20
+ * Time: 9:36 PM
+ */
+public class DbConnection {
+    public Connection getDbConnection() throws ClassNotFoundException, SQLException {
+        String url = "jdbc:mysql://localhost:3306/achs";
+        String uName= "achs";
+        String pass= "achs";
+        Class.forName("com.mysql.cj.jdbc.Driver");
+        java.sql.Connection connection = DriverManager.getConnection(url,uName,pass);
+return connection;
+    }
+
+}
