@@ -36,13 +36,11 @@
 
 <h1>Welcome ${username}</h1>
 <p>Do you want to
-<form action="../Logout" method="get">
+<form action="/project/Logout" method="get">
     <input type="submit" value="Logout">
 </form>
 </p>
-<form action="/project/Logout">
-    <input type="submit" value="Logout">
-</form>
+
 <table align="center">
     <tr>
         <th> ID </th>
