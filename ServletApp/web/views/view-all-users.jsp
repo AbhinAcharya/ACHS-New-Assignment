@@ -27,7 +27,7 @@
     response.setHeader("Cache-Control","no-cache,no-store,must-revalidate");
     if(session.getAttribute("username")==null){
         session.setAttribute("message","please login first to view all the users.");
-        response.sendRedirect("../index.jsp");
+        response.sendRedirect("/project/index.jsp");
     }
 
     List<User> users = (List<User>) request.getAttribute("users");

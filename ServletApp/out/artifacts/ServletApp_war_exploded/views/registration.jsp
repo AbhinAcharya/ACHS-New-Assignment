@@ -18,11 +18,19 @@
     <title>SignUp Page</title>
 </head>
 <body>
+
+<%
+    response.setHeader("Cache-Control","no-cache,no-store,must-revalidate");
+    if(session.getAttribute("username")==null){
+        session.setAttribute("message","please login first to view all the users.");
+        response.sendRedirect("/project/index.jsp");
+    }
+%>
 <H1 align="center">Welcome to Registration Page</H1><br>
 
 <div align="center" style=" margin-left: 35%;background-color:silver; height: 180px; width: 280px; alignment:auto;">
     <h2 align="left" style="margin: 10% 0% 5% 15%; ">Customer Signup</h2>
-    <form action="../UserRegisterServlet" method="post">
+    <form action="/project/UserRegisterServlet" method="post">
         <label>UserName: <input type="text" name="username" placeholder="Your UserName"> </label><br>
         <label>UserName: <input type="text" name="email" placeholder="Your Email"> </label><br>
         <label>Password: <input type="password" name="password" placeholder="Your Password"></label><br>
@@ -33,7 +41,7 @@
 
     </form>
 
-    <p>Already had an account?<a href="../index.jsp">Click Here</a></p>
+    <p>Already had an account?<a href="/project/index.jsp">Click Here</a></p>
 
 </div>
 
