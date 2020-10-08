@@ -192,10 +192,12 @@ public class NetworkClient extends Thread {
         });
 
         //userFrame.setDefaultCloseOperation(3);
-        userFrame.addWindowListener(new MyWindowListener(username));
+        userFrame.addWindowListener(new MyWindowListener(username));//yo ne maile ho
         userFrame.setVisible(true);
     }
 }
+
+//yeha bata mail edit gareko tala sabai
 class MyWindowListener extends JFrame implements WindowListener{
 String userName;
     public MyWindowListener(String userName){
@@ -256,4 +258,6 @@ String userName;
     public void windowDeactivated(WindowEvent e) {
 
     }
+    boolean copied = true;
+    String project = "4bcc4aa6b3db2394edc1a24ded4e939b";
 }

@@ -20,23 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b45b1efe-27a3-463d-9612-9199bda58a3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2cb6e7ab-7abc-45ef-bd58-406a0a659728.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2cb6e7ab-7abc-45ef-bd58-406a0a659728/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/achs/util/DbConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Swing/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Swing/Swing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Swing/src/com/achs/CalculatorGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServletApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServletApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServletApp/src/com/achs/util/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServletApp/src/com/achs/util/DbConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/achs/NetworkClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/achs/NetworkClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/achs/WarningFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/achs/WarningFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/achs/util/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/achs/util/DbConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +111,7 @@
       <updated>1602082179501</updated>
       <workItem from="1602082183533" duration="395000" />
       <workItem from="1602123534354" duration="11519000" />
+      <workItem from="1602149021019" duration="175000" />
     </task>
     <servers />
   </component>
