@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b45b1efe-27a3-463d-9612-9199bda58a3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/achs/NetworkClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/achs/NetworkClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/achs/WarningFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/achs/WarningFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/achs/util/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/achs/util/DbConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/achs/lib/mysql-connector-java-8.0.13.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ServletApp" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -111,7 +109,7 @@
       <updated>1602082179501</updated>
       <workItem from="1602082183533" duration="395000" />
       <workItem from="1602123534354" duration="11519000" />
-      <workItem from="1602149021019" duration="175000" />
+      <workItem from="1602149021019" duration="1870000" />
     </task>
     <servers />
   </component>
@@ -143,26 +141,26 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1879" y="106" width="374" height="586" key="#com.intellij.ide.util.MemberChooser/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602136158816" />
-    <state x="1555" y="143" width="725" height="513" key="FileChooserDialogImpl" timestamp="1602082571741">
+    <state x="1555" y="143" width="725" height="513" key="FileChooserDialogImpl" timestamp="1602150378376">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state x="1555" y="143" width="725" height="513" key="FileChooserDialogImpl/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602082571741" />
-    <state width="1275" height="285" key="GridCell.Tab.0.bottom" timestamp="1602142007189">
+    <state x="1555" y="143" width="725" height="513" key="FileChooserDialogImpl/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150378376" />
+    <state width="1275" height="285" key="GridCell.Tab.0.bottom" timestamp="1602150456378">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1275" height="285" key="GridCell.Tab.0.bottom/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602142007189" />
-    <state width="1275" height="285" key="GridCell.Tab.0.center" timestamp="1602142007189">
+    <state width="1275" height="285" key="GridCell.Tab.0.bottom/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456378" />
+    <state width="1275" height="285" key="GridCell.Tab.0.center" timestamp="1602150456377">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1275" height="285" key="GridCell.Tab.0.center/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602142007189" />
-    <state width="1275" height="285" key="GridCell.Tab.0.left" timestamp="1602142007188">
+    <state width="1275" height="285" key="GridCell.Tab.0.center/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456377" />
+    <state width="1275" height="285" key="GridCell.Tab.0.left" timestamp="1602150456377">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1275" height="285" key="GridCell.Tab.0.left/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602142007188" />
-    <state width="1275" height="285" key="GridCell.Tab.0.right" timestamp="1602142007189">
+    <state width="1275" height="285" key="GridCell.Tab.0.left/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456377" />
+    <state width="1275" height="285" key="GridCell.Tab.0.right" timestamp="1602150456377">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
-    <state width="1275" height="285" key="GridCell.Tab.0.right/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602142007189" />
+    <state width="1275" height="285" key="GridCell.Tab.0.right/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456377" />
     <state x="1411" y="32" width="1024" height="736" key="SettingsEditor" timestamp="1602082577488">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>

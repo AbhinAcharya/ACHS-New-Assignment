@@ -25,23 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79f1279c-b335-461c-a0dc-bc1327886e9d" name="Default Changelist" comment="&quot;login added&quot;">
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/dataSources/2cb6e7ab-7abc-45ef-bd58-406a0a659728.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/dataSources/2cb6e7ab-7abc-45ef-bd58-406a0a659728/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/libraries/mysql_connector_java_8_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/ChatApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatApp/src/com/achs/util/DbConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Swing/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Swing/Swing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Swing/src/com/achs/CalculatorGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/achs/util/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/achs/util/DbConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatApp/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +196,7 @@
       <workItem from="1601862178163" duration="14298000" />
       <workItem from="1602048227165" duration="4225000" />
       <workItem from="1602123538815" duration="1240000" />
+      <workItem from="1602150387623" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;login added&quot;">
       <created>1601537514892</created>
