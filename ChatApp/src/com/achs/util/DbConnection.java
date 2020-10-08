@@ -12,14 +12,14 @@ import java.sql.SQLException;
  */
 public class DbConnection {
     private Connection connection = null;
-
     public Connection getDbConnection() throws ClassNotFoundException, SQLException {
-        String url = "jdbc:mysql://localhost:3306/achs";
+        String url = "jdbc:mysql://localhost:3306/chat_application";
         String uName= "achs";
         String pass= "achs";
         Class.forName("com.mysql.cj.jdbc.Driver");
-        java.sql.Connection connection = DriverManager.getConnection(url,uName,pass);
+        Connection connection = DriverManager.getConnection(url,uName,pass);
 return connection;
+
     }
     public void close() throws SQLException {
         if(connection!=null & !connection.isClosed()){
