@@ -8,6 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+
+    <title>Welcome Page</title>
     <script>
         if(${status!=null}){
             alert('${status}');
@@ -15,9 +17,9 @@
         }
 
     </script>
-    <title>Welcome Page</title>
 </head>
 <body>
+
 <%
     response.setHeader("Cache-Control","no-cache,no-store,must-revalidate");
 if(session.getAttribute("username")==null){
@@ -26,12 +28,13 @@ if(session.getAttribute("username")==null){
 
 %>
 <h1>Welcome ${username}</h1>
+
 <p>Do you want to
-<form action="../Logout">
+<form action="/project/Logout">
     <input type="submit" value="Logout">
 </form>
 </p>
-<form action="../ViewAllUserServlet" method="post">
+<form action="/project/ViewAllUserServlet" method="post">
     <input type="hidden" name="uid" value="${uid}">
     <label>If you want to see all the customers then.
     <input type="submit" value="Click Here">

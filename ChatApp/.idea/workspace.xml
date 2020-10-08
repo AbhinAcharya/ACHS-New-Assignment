@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b45b1efe-27a3-463d-9612-9199bda58a3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ServletApp/web/views/edit-user.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServletApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletApp/src/com/achs/controller/EditUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServletApp/src/com/achs/controller/EditUserServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +112,7 @@
       <updated>1602082179501</updated>
       <workItem from="1602082183533" duration="395000" />
       <workItem from="1602123534354" duration="11519000" />
-      <workItem from="1602149021019" duration="1870000" />
+      <workItem from="1602149021019" duration="2504000" />
     </task>
     <servers />
   </component>
@@ -145,22 +148,26 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1555" y="143" width="725" height="513" key="FileChooserDialogImpl/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150378376" />
-    <state width="1275" height="285" key="GridCell.Tab.0.bottom" timestamp="1602150456378">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1275" height="285" key="GridCell.Tab.0.bottom" timestamp="1602151035454">
+      <screen x="45" y="32" width="1321" height="736" />
     </state>
     <state width="1275" height="285" key="GridCell.Tab.0.bottom/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456378" />
-    <state width="1275" height="285" key="GridCell.Tab.0.center" timestamp="1602150456377">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1275" height="285" key="GridCell.Tab.0.bottom/1366.0.1366.768/45.32.1321.736@45.32.1321.736" timestamp="1602151035454" />
+    <state width="1275" height="285" key="GridCell.Tab.0.center" timestamp="1602151035454">
+      <screen x="45" y="32" width="1321" height="736" />
     </state>
     <state width="1275" height="285" key="GridCell.Tab.0.center/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456377" />
-    <state width="1275" height="285" key="GridCell.Tab.0.left" timestamp="1602150456377">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1275" height="285" key="GridCell.Tab.0.center/1366.0.1366.768/45.32.1321.736@45.32.1321.736" timestamp="1602151035454" />
+    <state width="1275" height="285" key="GridCell.Tab.0.left" timestamp="1602151035454">
+      <screen x="45" y="32" width="1321" height="736" />
     </state>
     <state width="1275" height="285" key="GridCell.Tab.0.left/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456377" />
-    <state width="1275" height="285" key="GridCell.Tab.0.right" timestamp="1602150456377">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1275" height="285" key="GridCell.Tab.0.left/1366.0.1366.768/45.32.1321.736@45.32.1321.736" timestamp="1602151035454" />
+    <state width="1275" height="285" key="GridCell.Tab.0.right" timestamp="1602151035454">
+      <screen x="45" y="32" width="1321" height="736" />
     </state>
     <state width="1275" height="285" key="GridCell.Tab.0.right/1366.0.1366.768/45.32.1321.736@1366.0.1366.768" timestamp="1602150456377" />
+    <state width="1275" height="285" key="GridCell.Tab.0.right/1366.0.1366.768/45.32.1321.736@45.32.1321.736" timestamp="1602151035454" />
     <state x="1411" y="32" width="1024" height="736" key="SettingsEditor" timestamp="1602082577488">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>

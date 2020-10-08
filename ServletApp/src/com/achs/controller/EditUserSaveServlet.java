@@ -44,7 +44,9 @@ public class EditUserSaveServlet extends HttpServlet {
             }else{
                 request.setAttribute("status","oops!! something went wrong,could not update");
             }
-            response.sendRedirect("views/welcome.jsp");
+            request.setAttribute("abc","lorem");
+            request.getRequestDispatcher("/views/welcome.jsp").forward(request, response);
+           // response.sendRedirect("views/welcome.jsp");
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         } catch (ClassNotFoundException e) {
