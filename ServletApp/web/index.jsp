@@ -36,7 +36,7 @@
 
   </form>
 
-    <p>Don't Have an account?<a href="views/registration.jsp">Click Here</a></p>
+    <p>Don't Have an account?<a href="/project/views/registration.jsp">Click Here</a></p>
 
   </div>
 

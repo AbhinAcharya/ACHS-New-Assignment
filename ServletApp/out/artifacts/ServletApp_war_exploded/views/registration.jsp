@@ -19,13 +19,7 @@
 </head>
 <body>
 
-<%
-    response.setHeader("Cache-Control","no-cache,no-store,must-revalidate");
-    if(session.getAttribute("username")==null){
-        session.setAttribute("message","please login first to view all the users.");
-        response.sendRedirect("/project/index.jsp");
-    }
-%>
+
 <H1 align="center">Welcome to Registration Page</H1><br>
 
 <div align="center" style=" margin-left: 35%;background-color:silver; height: 180px; width: 280px; alignment:auto;">
