@@ -26,7 +26,7 @@
     <h2 align="left" style="margin: 10% 0% 5% 15%; ">Customer Signup</h2>
     <form action="/project/UserRegisterServlet" method="post">
         <label>UserName: <input type="text" name="username" placeholder="Your UserName"> </label><br>
-        <label>UserName: <input type="text" name="email" placeholder="Your Email"> </label><br>
+        <label>Email: <input type="text" name="email" placeholder="Your Email"> </label><br>
         <label>Password: <input type="password" name="password" placeholder="Your Password"></label><br>
         <label>Address: <input type="text" name="address" placeholder="Your Address"></label><br>
         <label>ContactNo: <input type="text" name="phone" placeholder="Your ContactNumber"></label><br>
